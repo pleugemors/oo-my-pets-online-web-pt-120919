@@ -22,6 +22,7 @@ class Dog
   
   def sell 
     @mood = "nervous"
+    @owner = nil 
   end
 
 end
