@@ -19,5 +19,9 @@ class Dog
   def walk
     @mood = "happy"
   end
+  
+  def sell 
+    @mood = "nervouse"
+  end
 
 end
