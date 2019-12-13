@@ -15,5 +15,9 @@ class Dog
   def self.all
     @@all
   end
+  
+  def walk
+    self.mood = "happy"
+  end
 
 end
