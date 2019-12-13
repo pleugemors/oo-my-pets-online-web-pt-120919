@@ -17,7 +17,7 @@ class Dog
   end
   
   def walk
-    self.mood = "happy"
+    @mood = "happy"
   end
 
 end
