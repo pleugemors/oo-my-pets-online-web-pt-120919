@@ -54,5 +54,9 @@ class Owner
     self.dogs.first.sell
     self.cats.first.sell 
   end
+  
+  def list_pets
+    ""
+  end
 
 end
