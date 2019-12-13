@@ -43,7 +43,7 @@ class Owner
   end
   
   def walk_dogs
-    self.dogs.walk = "happy"
+    self.dogs.walk 
   end
 
 end
