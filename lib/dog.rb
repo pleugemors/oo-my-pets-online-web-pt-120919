@@ -21,7 +21,7 @@ class Dog
   end
   
   def sell 
-    @mood = "nervouse"
+    @mood = "nervous"
   end
 
 end
