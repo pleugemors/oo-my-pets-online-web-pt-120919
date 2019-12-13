@@ -17,4 +17,8 @@ class Cat
     @@all
   end
   
+  def feed 
+    @mood = "happy"
+  end
+  
 end
