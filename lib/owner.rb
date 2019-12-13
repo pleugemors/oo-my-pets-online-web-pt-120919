@@ -27,8 +27,7 @@ class Owner
   end
   
   def cats 
-    puts Cats.all
-    Cats.all
+    
   end
 
 end
