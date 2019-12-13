@@ -45,5 +45,9 @@ class Owner
   def walk_dogs
     self.dogs.first.walk 
   end
+  
+  def feed_cats
+    self.cats.first.feed 
+  end
 
 end
