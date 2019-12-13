@@ -23,6 +23,7 @@ class Cat
   
   def sell 
     @mood = "nervous"
+    @owner = nil 
   end
   
 end
