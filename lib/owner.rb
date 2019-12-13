@@ -49,5 +49,9 @@ class Owner
   def feed_cats
     self.cats.first.feed 
   end
+  
+  def sell_pets
+    
+  end
 
 end
